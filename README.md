@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=["https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=190&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&&desc=MA%20Economics%20(STEM)%20@%20NYU"](https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=240&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&textBg=false&descSize=18&desc=MA%20Economics%20(STEM)%20@%20NYU&descAlignY=72&animation=fadeIn)/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=190&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&desc=MA%20Economics%20(STEM)%20@%20NYU&descSize=18&descAlignY=64&animation=fadeIn"/>
 
 </div>
 
