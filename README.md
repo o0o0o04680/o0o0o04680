@@ -13,7 +13,7 @@ I'm an empirical economist working at the intersection of labor economics, techn
 
  
 
-#🔬 Current research
+# 🔬 Current research
 
 AI Skill Demand and the Wage Premium: Evidence from Online Job Postings
 
