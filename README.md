@@ -2,10 +2,6 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=190&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&desc=MA%20Economics%20(STEM)%20@%20NYU%20%7C%20Applied%20Micro%20and%20Labor&descSize=18&descAlignY=64&animation=fadeIn"/>
-Show Image
-Show Image
-Show Image
-Show Image
 
 </div>
 👋 Hi there
@@ -41,10 +37,7 @@ Exploring Wage Dynamics in Taiwan, 1981–2021  Five-component log-additive wag
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="46" height="46"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="46" height="46"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="46" height="46"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="46" height="46"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="46" height="46"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL" width="46" height="46"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original-wordmark.svg" alt="Stata" width="46" height="46"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="46" height="46"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="46" height="46"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="46" height="46"/>&nbsp;&nbsp;
