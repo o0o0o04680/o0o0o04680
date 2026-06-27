@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=190&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&desc=MA%20Economics%20(STEM)%20@%20NYU%20%7C%20Applied%20Micro%20and%20Labor&descSize=18&descAlignY=64&animation=fadeIn"/>
 
 </div>
+
 # 👋 Hi there
 
 I'm an empirical economist working at the intersection of labor economics, technology, and applied microeconometrics. My research uses large administrative and online job-posting data to study how labor markets evolve, with an emphasis on clean identification, reproducible pipelines, and turning messy data into credible economic evidence. Heading toward an Economics PhD in applied micro, and open to policy or think-tank research along the way.
