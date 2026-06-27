@@ -7,7 +7,7 @@
 
 # 👋 Hi there
 
-I'm an empirical economist working at the intersection of labor economics, technology, and applied microeconometrics. My research uses large administrative and online job-posting data to study how labor markets evolve, with an emphasis on clean identification, reproducible pipelines, and turning messy data into credible economic evidence. I'm looking to bring this toolkit to data science, quantitative, and economic research roles where rigorous empirical work drives real decisions.
+I'm a recent MA Economics graduate working at the intersection of labor economics, technology, and applied microeconometrics, using large administrative and online job-posting data to study how labor markets evolve. My focus is on clean identification, reproducible pipelines, and turning messy data into credible economic evidence. I'm looking to bring this toolkit to data science, quantitative, and economic research roles where rigorous empirical work drives real decisions.
 
 🌏 Taiwanese · Mandarin (native) · English (fluent)  |  🧮 CFA Level I (passed Feb 2026)
 
