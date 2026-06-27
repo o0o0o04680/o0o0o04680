@@ -12,22 +12,20 @@ I'm a recent MA Economics graduate working at the intersection of labor economic
 
  
 
-# 🔬 Current research
+# 🔬 Selected projects
 
-AI Skill Demand and the Wage Premium: Evidence from Online Job Postings
+**AI Skill Demand and the Wage Premium: Evidence from Online Job Postings**
+Processing 10.65M job postings in DuckDB / PyArrow, I build TF-IDF skill measures into an occupation-year panel merged with ACS microdata and estimate two-way fixed effects via `pyfixest`. The central finding is a within-occupation sign reversal: the positive cross-occupational link between AI skill demand and wages flips negative within occupation over time.
+<!-- Tip: drop a key figure here by committing the image to the repo, e.g. <img src="assets/ai_wage_figure.png" width="520"/> -->
 
-Processing 10.65M job postings in DuckDB / PyArrow, I build TF-IDF skill measures into an occupation-year panel merged with ACS microdata and estimate two-way fixed effects via pyfixest. The central finding is a within-occupation sign reversal: the positive cross-occupational link between AI skill demand and wages flips negative within occupation over time.
+**Forecasting Volatility with Hybrid ARMA-EGARCH-XGBoost Models** 🏆
+1st place globally (138 teams), 2026 SAS Curiosity Cup. 60–75% RMSE reduction versus an ARMA-EGARCH baseline, with conformal prediction intervals roughly 15x narrower.
 
-<!-- Tip: drop a key figure here (e.g. your sign-reversal coefficient plot) by committing the image to the repo and linking it, like the line below -->
-<!-- <img src="assets/ai_wage_figure.png" width="520"/> -->
- 
+**Corporate Performance and CEO Compensation: Examining the Link Between Executive Pay and Financial Success**
+682 firm-year WRDS / Compustat panel with fixed and random effects, Hausman test, IV, and Driscoll-Kraay standard errors.
 
-# 📄 Selected work
-
-
-Forecasting Volatility with Hybrid ARMA-EGARCH-XGBoost Models  🏆  1st place globally (138 teams), 2026 SAS Curiosity Cup. 60–75% RMSE reduction versus an ARMA-EGARCH baseline, with conformal prediction intervals roughly 15x narrower.
-Corporate Performance and CEO Compensation: Examining the Link Between Executive Pay and Financial Success  682 firm-year WRDS / Compustat panel with fixed and random effects, Hausman test, IV, and Driscoll-Kraay standard errors.
-Exploring Wage Dynamics in Taiwan, 1981–2021  Five-component log-additive wage decomposition with Bai-Perron structural breaks, identifying capital-deepening (K/L) deceleration as the dominant break.
+**Exploring Wage Dynamics in Taiwan, 1981–2021**
+Five-component log-additive wage decomposition with Bai-Perron structural breaks, identifying capital-deepening (K/L) deceleration as the dominant break.
 
 
  
