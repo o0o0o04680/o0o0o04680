@@ -57,6 +57,8 @@ Econometrics: panel and fixed effects (pyfixest) · IV and shift-share designs �
 <!-- Add a second pinned repo by copying the block above and changing repo= -->
 <p align = "left" >
 <a href = "https://github.com/o0o0o04680/Programming_for_Data_Science">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=o0o0o04680&repo=Programming_for_Data_Science&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+</a>
  
 
 # 📊 Stats
