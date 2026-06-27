@@ -23,7 +23,7 @@ Processing 10.65M job postings in DuckDB / PyArrow, I build TF-IDF skill measure
 <!-- <img src="assets/ai_wage_figure.png" width="520"/> -->
  
 
-#📄 Selected work
+# 📄 Selected work
 
 
 Forecasting Volatility with Hybrid ARMA-EGARCH-XGBoost Models  🏆  1st place globally (138 teams), 2026 SAS Curiosity Cup. 60–75% RMSE reduction versus an ARMA-EGARCH baseline, with conformal prediction intervals roughly 15x narrower.
@@ -33,7 +33,7 @@ Exploring Wage Dynamics in Taiwan, 1981–2021  Five-component log-additive wag
 
  
 
-#🧰 My toolbox
+# 🧰 My toolbox
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="46" height="46"/>&nbsp;&nbsp;
@@ -48,7 +48,7 @@ Econometrics: panel and fixed effects (pyfixest) · IV and shift-share designs �
 
  
 
-#📌 Featured repositories
+# 📌 Featured repositories
 
 <p align="left">
 <a href="https://github.com/o0o0o04680/Special_Project-AI-Demand-and-the-Wage-Premium">
@@ -58,7 +58,7 @@ Econometrics: panel and fixed effects (pyfixest) · IV and shift-share designs �
 </p>
  
 
-📊 Stats
+# 📊 Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=o0o0o04680&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165"/>
