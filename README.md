@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:2a5298&height=190&section=header&text=Yu-Lung%20Chen&fontColor=ffffff&fontSize=46&desc=MA%20Economics%20(STEM)%20@%20NYU%20%7C%20Applied%20Micro%20and%20Labor&descSize=18&descAlignY=64&animation=fadeIn"/>
 
 </div>
-👋 Hi there
+#👋 Hi there
 
 I'm an empirical economist working at the intersection of labor economics, technology, and applied microeconometrics. My research uses large administrative and online job-posting data to study how labor markets evolve, with an emphasis on clean identification, reproducible pipelines, and turning messy data into credible economic evidence. Heading toward an Economics PhD in applied micro, and open to policy or think-tank research along the way.
 
@@ -12,7 +12,7 @@ I'm an empirical economist working at the intersection of labor economics, techn
 
  
 
-🔬 Current research
+#🔬 Current research
 
 AI Skill Demand and the Wage Premium: Evidence from Online Job Postings
 
@@ -22,7 +22,7 @@ Processing 10.65M job postings in DuckDB / PyArrow, I build TF-IDF skill measure
 <!-- <img src="assets/ai_wage_figure.png" width="520"/> -->
  
 
-📄 Selected work
+#📄 Selected work
 
 
 Forecasting Volatility with Hybrid ARMA-EGARCH-XGBoost Models  🏆  1st place globally (138 teams), 2026 SAS Curiosity Cup. 60–75% RMSE reduction versus an ARMA-EGARCH baseline, with conformal prediction intervals roughly 15x narrower.
@@ -32,7 +32,7 @@ Exploring Wage Dynamics in Taiwan, 1981–2021  Five-component log-additive wag
 
  
 
-🧰 My toolbox
+#🧰 My toolbox
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="46" height="46"/>&nbsp;&nbsp;
@@ -47,7 +47,7 @@ Econometrics: panel and fixed effects (pyfixest) · IV and shift-share designs �
 
  
 
-📌 Featured repositories
+#📌 Featured repositories
 
 <p align="left">
 <a href="https://github.com/o0o0o04680/Special_Project-AI-Demand-and-the-Wage-Premium">
